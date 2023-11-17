@@ -14,6 +14,7 @@ must have created a tread in slack, and you will only have 3 seconds after runni
 
 ## Usage
 
+1st attempt it will ask you to enable accisibility permissions
 run checkins from terminal and paste in the pairs from pair generator as a single string
 
 ```

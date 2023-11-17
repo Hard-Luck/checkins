@@ -1,6 +1,6 @@
 {
-  "name": "robotjs",
-  "version": "1.0.0",
+  "name": "checkins",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  }
 }
