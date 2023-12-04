@@ -4,10 +4,10 @@
 Fork and clone repo
 `navigate into repo`
 
-`run ./setup.sh`
+`sudo run ./setup.sh` - this needs permissions
 `if you cant run enable executable with`
 `chmod +x setup.sh`
-
+`npm i` for dependanices
 ## Consideration
 
 must have created a tread in slack, and you will only have 3 seconds after running the command to click into it
